@@ -256,7 +256,7 @@ function visualizeMatchesPlayedPerYear(
         enabled: false
       },
       tooltip: {
-        pointFormat: "Extra runs: <b>{point.y:.1f} </b>"
+        pointFormat: "Economy: <b>{point.y:.1f} </b>"
       },
       series: [
         {
